@@ -1,2 +1,2 @@
-# CovidNPLDisaster
-Analysis of tweets about the pandemic.
+# NPLDisasterTweets
+Analysis of tweets about disasters.
